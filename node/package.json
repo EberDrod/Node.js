@@ -1,0 +1,15 @@
+{
+  "name": "serverbasico",
+  "version": "1.0.0",
+  "description": "Primer Servidor con nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eber Peña <eberg.pena@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

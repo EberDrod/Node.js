@@ -1,0 +1,14 @@
+{
+  "name": "descargas",
+  "version": "1.0.1",
+  "description": "Descarga cualquier archivo con  node",
+  "main": "server.js",
+  "scripts": {
+    "test": "1"
+  },
+  "author": "eber Peña",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.14.0"
+  }
+}
